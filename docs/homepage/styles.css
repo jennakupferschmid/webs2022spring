@@ -1,9 +1,33 @@
-body {
-  max-width: 30em;
+.row {
+  display: flex;
+  justify-content: center;
 }
-h2 {
-  text-align: left;
+
+.column-2-items {
+  flex: 50%;
+  padding-left: 100px;
+  text-align: center;
 }
-img {
-  text-align: right;
+
+.column-three-items {
+  flex: 33.3%;
+  text-align: center;
+}
+h1, h2 {
+  text-align: center;
+}
+
+div {
+  font-size: 20px;
+}
+.btn {
+    font-size:16px;
+    padding: 12.5px 25px 12.5px 25px;
+    border-radius: 5px;
+    color: white;
+    background-color: #8dc63f;
+}
+.btn:hover {
+    background-color: #3ea5dd;
+    color: white;
 }
