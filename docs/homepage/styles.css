@@ -13,6 +13,15 @@
   flex: 33.3%;
   text-align: center;
 }
+.column-6-items {
+  flex: 50%;
+  padding-right: 100px;
+  text-align: center;
+}
+.column-1-item {
+  text-align: center;
+  padding-right: 85px;
+}
 h1, h2 {
   text-align: center;
 }
