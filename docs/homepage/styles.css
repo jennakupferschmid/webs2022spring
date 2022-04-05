@@ -1,3 +1,9 @@
+.writing {
+  width: 33%;
+}
+.nowrap {
+  flex-wrap:nowrap;
+}
 .project {
   width:35em;
   height:35em;
