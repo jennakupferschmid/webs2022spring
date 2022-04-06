@@ -1,5 +1,18 @@
 # Project 3: Website Portfolio
 
+Links:
+writing.jpg: "Writing-Black and White" by KnittedBunny Published on Dec 11, 2011
+https://www.deviantart.com/knittedbunny/art/Writing-Black-and-White-273443490
+handwriting.jpg: "8 Ways to Improve Your Writing Skills" by Elite Editing
+https://eliteediting.com/resources/8-ways-improve-writing-skills/
+penwriting.jpg: "A Descriptive Explanation of Classic Style of Writing"
+http://www.writeawriting.com/writers/classic-style-of-writing/
+
+-all other files were my own designs
+
+MY WEBPAGE:
+My webpage centers around the work I have done during my time at the University of Pittsburgh. Since I am only a sophomore, it was important to me to create a website that is "a work in progress" and can be added to at any point. I thought it would be advantageous for me to create a website that is a personal profile because it is something unique to add to my resume that is equally as informative.
+
 Your task in this unit is to **build a multi-page website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** (Any JavaScript or animation you want to add for interactivity is welcome, but above and beyond expectations.) In assigning this, I have two main goals for you:
 
 1. to learn how to manage a composite project made up of multiple interlinking files, and
